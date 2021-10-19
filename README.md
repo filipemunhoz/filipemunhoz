@@ -49,7 +49,7 @@ https://filipemunhoz.medium.com/
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Vscode" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+<br />
 
-<p align="right">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemunhoz&theme=tokyonight)
-</p>
+
