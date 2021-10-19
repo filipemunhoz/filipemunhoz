@@ -18,17 +18,18 @@ Here are some ideas to get you started:
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/filipe-munhoz-b878858/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:filipemunhoz@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/filipe-munhoz-b878858/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:filipemunhoz@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://filipemunhoz.medium.com/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 
-https://filipemunhoz.medium.com/
 
 <br />
 
 ## 📗 Blog posts
- - https://filipemunhoz.medium.com/api-performance-spring-mvc-vs-spring-webflux-vs-go-f97b62d2255a
+ - [API performance— Spring MVC vs Spring Webflux vs Go](https://filipemunhoz.medium.com/api-performance-spring-mvc-vs-spring-webflux-vs-go-f97b62d2255a)
+ - [Redis — Using master node to save and replicas nodes to read with Springboot.](https://filipemunhoz.medium.com/redis-using-master-node-to-save-and-replicas-nodes-to-read-with-springboot-b86a0dbb3baf)
 
 <br />
 
