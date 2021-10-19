@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 <br />
 
 ## 📗 Blog posts
- - [API performance— Spring MVC vs Spring Webflux vs Go](https://filipemunhoz.medium.com/api-performance-spring-mvc-vs-spring-webflux-vs-go-f97b62d2255a)
- - [Redis — Using master node to save and replicas nodes to read with Springboot.](https://filipemunhoz.medium.com/redis-using-master-node-to-save-and-replicas-nodes-to-read-with-springboot-b86a0dbb3baf)
- - [Hack the Box — Remote write-up by fcmunhoz](https://filipemunhoz.medium.com/hack-the-box-remote-write-up-by-fcmunhoz-4670c99cf08e)
- - [Hack the Box — Traceback write-up by fcmunhoz](https://filipemunhoz.medium.com/hack-the-box-traceback-write-up-by-fcmunhoz-96cdd206b9b7)
- - [Managing production environment using Spring Boot Actuator](https://filipemunhoz.medium.com/managing-production-environment-using-spring-boot-actuator-65830dd340e2)
- - [Go: Working with iota](https://filipemunhoz.medium.com/go-working-with-iota-655522cbcdac)
- - [Go: Reading a slice using range](https://filipemunhoz.medium.com/go-reading-a-slice-using-range-80b0eae855dc)
+ - [API performance— Spring MVC vs Spring Webflux vs Go](https://filipemunhoz.medium.com/api-performance-spring-mvc-vs-spring-webflux-vs-go-f97b62d2255a){:target="_blank"}
+ - [Redis — Using master node to save and replicas nodes to read with Springboot.](https://filipemunhoz.medium.com/redis-using-master-node-to-save-and-replicas-nodes-to-read-with-springboot-b86a0dbb3baf){:target="_blank"}
+ - [Hack the Box — Remote write-up by fcmunhoz](https://filipemunhoz.medium.com/hack-the-box-remote-write-up-by-fcmunhoz-4670c99cf08e){:target="_blank"}
+ - [Hack the Box — Traceback write-up by fcmunhoz](https://filipemunhoz.medium.com/hack-the-box-traceback-write-up-by-fcmunhoz-96cdd206b9b7){:target="_blank"}
+ - [Managing production environment using Spring Boot Actuator](https://filipemunhoz.medium.com/managing-production-environment-using-spring-boot-actuator-65830dd340e2){:target="_blank"}
+ - [Go: Working with iota](https://filipemunhoz.medium.com/go-working-with-iota-655522cbcdac){:target="_blank"}
+ - [Go: Reading a slice using range](https://filipemunhoz.medium.com/go-reading-a-slice-using-range-80b0eae855dc){:target="_blank"}
 
 <br />
 
